@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 india is developing country and rich in culture..
+=======
+mother india ,,,
+>>>>>>> softskills-assignments
 =======
 mother india ,,,
 >>>>>>> softskills-assignments
